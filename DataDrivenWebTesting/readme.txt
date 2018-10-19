@@ -9,7 +9,7 @@ https://www.oracle.com/technetwork/java/javase/downloads/index.html
 step 3: Install java in the system and add the environment variable. Please follow below link for installation of Java and setting an environment variable in your system
 
 step 4: Download my project from the below link(i.e. click on Clone or download >> click on Download Zip)
-https://github.com/subramanyamjuturu/OptileDatadrivenFramework
+https://github.com/subramanyamjuturu/DataDrivenWebDevelopmentFramework
 
 tep 5: Extract the project from the Zip file
 
