@@ -2,11 +2,6 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="Suite">
 	<test thread-count="5" name="TestNg">
-		<parameter name="Username" value="subramanyamjuturu4@gmail.com" />
-		<parameter name="Password" value="Bonnechance@123" />
-		<parameter name="InvalidUsername" value="subramanyamjuturu@gmail.com" />
-		<parameter name="InvalidPassword" value="Bonnechane@123" />
-		
 		<classes>
 			<class name="com.DataDrivenWebTesting.TestNg.Testng" />
 		</classes>
