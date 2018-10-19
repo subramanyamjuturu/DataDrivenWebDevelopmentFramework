@@ -1,0 +1,11 @@
+com\Optile\Scripts\ExcelOperations.class
+com\Optile\Results\ResultsClass.class
+com\Optile\Actions\commonMethods.class
+com\Optile\Pages\LoginPage.class
+com\Optile\Actions\Action.class
+com\Optile\Scripts\ExecutionDetails.class
+com\Optile\Scripts\ScriptExecuter.class
+com\Optile\Pages\UploadFile.class
+com\Optile\Task\OptileTask.class
+com\Optile\TestNg\Testng.class
+com\Optile\Pages\UploadFolder.class

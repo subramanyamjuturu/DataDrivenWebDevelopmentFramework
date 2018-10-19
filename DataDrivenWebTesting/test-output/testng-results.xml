@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="26850" started-at="2018-10-19T09:34:08Z" finished-at="2018-10-19T09:34:35Z">
+    <groups>
+    </groups>
+    <test name="TestNg" duration-ms="26850" started-at="2018-10-19T09:34:08Z" finished-at="2018-10-19T09:34:35Z">
+      <class name="com.DataDrivenWebTesting.TestNg.Testng">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.DataDrivenWebTesting.TestNg.Testng@1060b431]" name="beforeClass" is-config="true" duration-ms="26820" started-at="2018-10-19T09:34:08Z" finished-at="2018-10-19T09:34:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="f()[pri:0, instance:com.DataDrivenWebTesting.TestNg.Testng@1060b431]" name="f" duration-ms="8" started-at="2018-10-19T09:34:35Z" finished-at="2018-10-19T09:34:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- com.DataDrivenWebTesting.TestNg.Testng -->
+    </test> <!-- TestNg -->
+  </suite> <!-- Suite -->
+</testng-results>
